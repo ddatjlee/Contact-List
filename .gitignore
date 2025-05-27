@@ -1,0 +1,51 @@
+# Thư mục build và biên dịch
+bin/
+obj/
+
+# Thư mục Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Thư mục NuGet
+packages/
+
+# Tệp cấu hình cục bộ
+*.csproj.user
+
+# Tệp tạm thời và sao lưu
+*.bak
+*.tmp
+*.log
+*~
+*.swp
+
+# Thư mục và tệp xuất bản
+[Pp]ublish/
+*.publishproj
+
+# Tệp môi trường cục bộ (nếu có thông tin nhạy cảm)
+appsettings.json
+appsettings.*.json
+
+# Công cụ kiểm thử
+[Tt]est[Rr]esult*/
+*.trx
+*.xml
+coverage.*
+
+# Thư mục Roslyn (nếu có)
+.roslyn/
+
+# Tệp khóa của Visual Studio
+*.lock.json
+
+# Bỏ qua các tệp liên quan đến Azure hoặc các dịch vụ đám mây (nếu có)
+*.azure.json
+*.azurePipelines.yml
+
+# Thư mục IDE khác (nếu dùng Rider hoặc VS Code)
+.idea/
+.vscode/
