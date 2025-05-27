@@ -1,0 +1,11 @@
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\bin\Debug\ContactList.exe.config
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\bin\Debug\ContactList.exe
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\bin\Debug\ContactList.pdb
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.csproj.AssemblyReference.cache
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.AddContactForm.resources
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.Form1.resources
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.exe
+F:\chuacode\winform_CNPM\Contact-List\ContactList\ContactList\obj\Debug\ContactList.pdb
