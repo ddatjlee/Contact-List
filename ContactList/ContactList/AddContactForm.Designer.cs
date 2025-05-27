@@ -33,6 +33,8 @@
             this.txtTen = new System.Windows.Forms.TextBox();
             this.btnLuu = new System.Windows.Forms.Button();
             this.txtSDT = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.txtMail = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -77,11 +79,29 @@
             this.txtSDT.Size = new System.Drawing.Size(208, 20);
             this.txtSDT.TabIndex = 2;
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(53, 146);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(32, 13);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Email";
+            // 
+            // txtMail
+            // 
+            this.txtMail.Location = new System.Drawing.Point(189, 143);
+            this.txtMail.Name = "txtMail";
+            this.txtMail.Size = new System.Drawing.Size(208, 20);
+            this.txtMail.TabIndex = 5;
+            // 
             // AddContactForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtMail);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.txtSDT);
             this.Controls.Add(this.txtTen);
@@ -101,5 +121,7 @@
         private System.Windows.Forms.TextBox txtTen;
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.TextBox txtSDT;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox txtMail;
     }
 }

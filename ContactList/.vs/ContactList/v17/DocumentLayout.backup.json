@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|f:\\chuacode\\winform_cnpm\\contact-list\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|f:\\chuacode\\winform_cnpm\\contact-list\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|f:\\chuacode\\winform_cnpm\\contact-list\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|f:\\chuacode\\winform_cnpm\\contact-list\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F9E5F57-803B-4D37-BB8B-9AC461C5782A}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,12 +58,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AddContactForm.cs",
               "DocumentMoniker": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs*",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs*",
+              "ToolTip": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:20:20.051Z",
@@ -71,32 +71,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\Form1.cs",
               "RelativeDocumentMoniker": "ContactList\\Form1.cs",
               "ToolTip": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\Form1.cs",
               "RelativeToolTip": "ContactList\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:20:03.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddContactForm.cs [Design]",
               "DocumentMoniker": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs [Design]*",
-              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]*",
+              "ToolTip": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:16:26.89Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\chuacode\\winform_CNPM\\Contact-List\\ContactList\\ContactList\\Form1.cs",
               "RelativeDocumentMoniker": "ContactList\\Form1.cs",
